@@ -1,6 +1,6 @@
 # git-search
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.4.5. It makes use of the Github API to retrieve information.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.4.5. It makes use of the Github API to retrieve information
 ### By muhudin abdi ali
 ## Description
 
