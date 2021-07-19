@@ -16,7 +16,7 @@ This webpage was created using :
 
 
 ## Setup and Installation requirements
-You will need
+You will need:
 * Stable internet connection
 * A github account
 * Repository used to host the website
